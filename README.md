@@ -1,2 +1,2 @@
 # Chicago-Pop
-A python project analyzing Chicago population data
+A python project analyzing Chicago population data.
